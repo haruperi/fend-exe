@@ -49,3 +49,34 @@ h2 {
     margin-top: 1em;
 
 }
+
+
+.line {
+    border: 2px solid gray;
+    margin-top: 1em;
+}
+
+#header-image {
+    width: 100%;
+}
+
+#featuredWorkH2 {
+    color: #7d97ad;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+#featureWork {
+    color: #2d3c49;
+    text-align: center;
+}
+
+.imgfeatured {
+    width: 220px;
+}
+
+#featureWork a {
+    text-decoration: none;
+    color: #2d3c49;
+}
